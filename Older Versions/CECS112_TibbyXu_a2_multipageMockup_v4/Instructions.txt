@@ -1,0 +1,91 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: CECS112_TibbyXu_a2_multipageMockup_v4.indd
+
+PACKAGE DATE: 4/9/21 3:08 PM
+Creation Date: 4/9/21
+Modification Date: 4/9/21
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: Tibby Xu
+Address: 
+101 West End Avenue
+New York, NY 10023
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page5, 8
+
+FONTS
+5 Fonts Used; 0 Missing, 3 Embedded, 0 Incomplete, 1 Protected
+
+Fonts Packaged
+- Name: AmericanTypewriter-Bold; Type: TrueType, Status: Embedded
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Montserrat-Black; Type: Type 1, Status: Embedded
+- Name: MyriadPro-Regular; Type: Type 1, Status: Embedded
+Fonts Not Packaged
+- Name: Ultra-Regular; Type: OpenType TrueType, Status: Activated
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 29 Links Found; 0 Modified, 1 Missing, 0 Inaccessible
+Images: 0 Embedded, 24 use RGB color space
+
+- Name: EmilyS_NYC_Soothr_GroupShot_001.jpg; Type: JPEG RGB; Status: Missing
+
+PRINT SETTINGS
+PPD: HP LaserJet Pro M428-M429, (HP LaserJet Pro M428-M429)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite, Colors in Black.
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. CECS112_TibbyXu_a2_multipageMockup_v4.indd; type: Adobe InDesign publication; size: 17428K
+2. CECS112_TibbyXu_a2_multipageMockup_v4.idml; type: InDesign Markup Document; size: 1150K
+3. CECS112_TibbyXu_a2_multipageMockup_v4.pdf; type: Adobe Acrobat Document; size: 6034K
+4. MinionPro-Regular.otf; type: Font file; size: 213K
